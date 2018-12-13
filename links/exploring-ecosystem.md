@@ -1,3 +1,12 @@
+# Clojure links for readings
+
+
+## Useful links for beginners
+
+https://lispcast.com/ultimate-guide-to-learning-clojure-for-free/
+
+
+
 https://github.com/bbatsov/clojure-style-guide
 
 http://www.hypirion.com/musings/understanding-persistent-vector-pt-1
