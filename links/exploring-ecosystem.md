@@ -1,7 +1,7 @@
 # Clojure links for readings
 
 
-## Useful links for beginners
+### Useful links for beginners
 
 https://lispcast.com/ultimate-guide-to-learning-clojure-for-free/
 
@@ -34,11 +34,11 @@ https://github.com/clojure-emacs/cider-decompile
 http://blog.guillermowinkler.com/blog/2014/04/13/decompiling-clojure-i/
 
 
-laziness
+### LAZINESS
 
 https://www.destroyallsoftware.com/talks/boundaries
 
 
-Readable clojure
+### Readable clojure
 
 http://tonsky.me/blog/readable-clojure/
