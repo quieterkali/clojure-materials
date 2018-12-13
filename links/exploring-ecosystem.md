@@ -25,7 +25,7 @@ https://github.com/jafingerhut/thalia/blob/master/doc/other-topics/referential-t
 
 http://clojure-doc.org/articles/language/laziness.html
 
-### DECOMPILERS
+### Decompilers
 
 http://clojure-goes-fast.com/blog/introspection-tools-java-decompilers/
 
@@ -34,7 +34,7 @@ https://github.com/clojure-emacs/cider-decompile
 http://blog.guillermowinkler.com/blog/2014/04/13/decompiling-clojure-i/
 
 
-### LAZINESS
+### Laziness
 
 https://www.destroyallsoftware.com/talks/boundaries
 
