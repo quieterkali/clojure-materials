@@ -1,6 +1,10 @@
 # Clojure links for readings
 
 
+### Clojure 10
+http://blog.klipse.tech/clojure/2018/12/18/welcome-clojure-10.html
+
+
 ### Useful links for beginners
 
 https://lispcast.com/ultimate-guide-to-learning-clojure-for-free/
